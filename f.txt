@@ -1,0 +1,6 @@
+I've implemented some functionalities with the get_processes() function with no problem what so ever, but I'm getting a hard time with the get_components() function...
+
+I'm on Windows 10 v2004
+Also with a AMD Ryzen processor, I don't know if it has something to do with it.
+
+Thanks.
